@@ -1,0 +1,11 @@
+.env
+
+Pipfile
+
+Pipfile.lock
+
+.vim
+
+__pycache__
+
+.mypy_cache/
